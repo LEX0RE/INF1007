@@ -1,0 +1,34 @@
+[2020-12-17 16:30:01][DEBUG   ] Connecting to irc.chat.twitch.tv:6697...
+[2020-12-17 16:30:01][DEBUG   ] Connected using SSL version 'TLSv1.2'
+[2020-12-17 16:30:01][INFO    ] < PASS oauth:3kmt5jknv4wt0sfej5noj8unmkpuo0
+[2020-12-17 16:30:01][INFO    ] < NICK Daravolt
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv 001 daravolt :Welcome, GLHF!
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv 002 daravolt :Your host is tmi.twitch.tv
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv 003 daravolt :This server is rather new
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv 004 daravolt :-
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv 375 daravolt :-
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv 372 daravolt :You are in a maze of twisty passages, all alike.
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv 376 daravolt :>
+[2020-12-17 16:30:01][INFO    ] < CAP REQ :twitch.tv/membership
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[2020-12-17 16:30:01][INFO    ] < CAP REQ :twitch.tv/commands
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[2020-12-17 16:30:01][INFO    ] < JOIN #chosson
+[2020-12-17 16:30:01][INFO    ] > :daravolt!daravolt@daravolt.tmi.twitch.tv JOIN #chosson
+[2020-12-17 16:30:01][INFO    ] > :daravolt.tmi.twitch.tv 353 daravolt = #chosson :daravolt
+[2020-12-17 16:30:01][INFO    ] > :daravolt.tmi.twitch.tv 366 daravolt #chosson :End of /NAMES list
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv USERSTATE #chosson
+[2020-12-17 16:30:01][INFO    ] > :tmi.twitch.tv ROOMSTATE #chosson
+[2020-12-17 16:30:01][DEBUG   ] Done connecting.
+[2020-12-17 16:30:01][DEBUG   ] Listening to chat for commands...
+[2020-12-17 16:31:11][INFO    ] > :flaskcopy!flaskcopy@flaskcopy.tmi.twitch.tv JOIN #chosson
+[2020-12-17 16:31:11][INFO    ] > :gingeryoval!gingeryoval@gingeryoval.tmi.twitch.tv JOIN #chosson
+[2020-12-17 16:34:35][INFO    ] > PING :tmi.twitch.tv
+[2020-12-17 16:34:35][INFO    ] < PONG :tmi.twitch.tv
+[2020-12-17 16:39:15][INFO    ] > PING :tmi.twitch.tv
+[2020-12-17 16:39:15][INFO    ] < PONG :tmi.twitch.tv
+[2020-12-17 16:43:54][INFO    ] > PING :tmi.twitch.tv
+[2020-12-17 16:43:54][INFO    ] < PONG :tmi.twitch.tv
+[2020-12-17 16:48:53][INFO    ] > PING :tmi.twitch.tv
+[2020-12-17 16:48:53][INFO    ] < PONG :tmi.twitch.tv
+[2020-12-17 16:52:57][ERROR   ] [WinError 10054] Une connexion existante a dû être fermée par l’hôte distant
