@@ -1,0 +1,10 @@
+.github/workflows/assignment_tests.yml
+.github/workflows/pylint.yml
+README.md
+test_assignment.py
+requirements.txt
+settings/files_to_update.txt
+settings/test_associations.json
+settings/variables.txt
+img/output_parentheses.png
+img/result_spam.png

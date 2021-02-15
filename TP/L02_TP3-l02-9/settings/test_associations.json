@@ -1,0 +1,42 @@
+{
+  "test_deja_trie": {
+    "name": "Partie 1 Tri: test_deja_trie",
+    "points": 1
+  },
+  "test_repetition": {
+    "name": "Partie 1 Tri: test_repetition",
+    "points": 1
+  },
+  "test_repetition2": {
+    "name": "Partie 1 Tri: test_repetition2",
+    "points": 1
+  },
+  "test_negatif": {
+    "name": "Partie 1 Tri: test_negatif",
+    "points": 1
+  },
+  "test_gros": {
+    "name": "Partie 1 Tri: test_gros",
+    "points": 2
+  },
+  "test_lire_poids": {
+    "name": "Partie 2 Dijskstra: test_lire_poids",
+    "points": 1
+  },
+  "test_initialiser": {
+    "name": "Partie 2 Dijskstra: test_initialiser",
+    "points": 1
+  },
+  "test_trouver_element_plus_proche": {
+    "name": "Partie 2 Dijskstra: test_trouver_element_plus_proche",
+    "points": 2
+  },
+  "test_mettre_a_jour_distances": {
+    "name": "Partie 2 Dijskstra: test_mettre_a_jour_distances",
+    "points": 2
+  },
+  "test_predecesseurs_distances_final": {
+    "name": "Partie 2 Dijskstra: test_predecesseurs_distances_final",
+    "points": 3
+  }
+}

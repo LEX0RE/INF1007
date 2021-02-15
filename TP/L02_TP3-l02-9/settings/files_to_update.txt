@@ -1,0 +1,19 @@
+.github/workflows/assignment_tests.yml
+.github/workflows/assignment grading.yml
+.github/workflows/pylint.yml
+.github/workflows/assignment_deadline.yml
+.github/workflows/verifications.yml
+README.md
+test_assignment.py
+settings/files_to_update.txt
+settings/variables.txt
+settings/test_associations.json
+images/ex_reseau_routier.png
+images/exemple_algo_dijsktra.png
+images/Merge-Sort-Algorithm.png
+poids_2_1.txt
+poids.txt
+listeDeNombres.txt
+exo2_corrige.py
+exo1_corrige.py
+requirements.txt

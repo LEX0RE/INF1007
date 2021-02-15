@@ -1,0 +1,94 @@
+{
+    "test_tri_dix_elements": {
+      "name": "exo 1 : 10 elements dans le tableau",
+      "points": 1
+    },
+    "test_tri_complet": {
+      "name": "exo 1 : 1000 elements dans le tableau",
+      "points": 1
+    },
+    "test_paranthese_bien_1": {
+      "name": "exo 2 : \"()\" ",
+      "points": 0.5
+    },
+    "test_paranthese_bien_2": {
+      "name": "exo 2 : \"(()())\"",
+      "points": 0.5
+    },
+    "test_paranthese_bien_3": {
+      "name": "exo 2 : \"(())((()))()\"",
+      "points": 0.5
+    },
+    "test_paranthese_bien_4": {
+      "name": "exo 2 : \"((((((()))))))\"",
+      "points": 0.5
+    },
+    "test_non_parenthese_1": {
+      "name": "exo 2 : \"(((\"",
+      "points": 0.5
+    },
+    "test_non_parenthese_2": {
+      "name": "exo 2 : \")))\"",
+      "points": 0.5
+    },
+    "test_non_parenthese_3": {
+      "name": "exo 2 : \"((())\"",
+      "points": 0.5
+    },
+    "test_non_parenthese_4": {
+      "name": "exo 2 : \"(()))\"",
+      "points": 0.5
+    },
+    "test_rebond_faible": {
+      "name": "exo 3 : coefficient de rebond faible",
+      "points": 1
+    },
+    "test_rebond_fort": {
+      "name": "exo 3 : coefficient de rebond fort",
+      "points": 1
+    },
+    "test_pie_is_well_aproximed": {
+      "name": "exo 4 : bonne approximation de pi",
+      "points": 2
+    },
+    "test_multiyply_matrix_with_uncompatible_size_1": {
+        "name": "exo 5 : multiplication avec dimensions incompatibles (1er test)",
+        "points": 1
+    },
+    "test_multiyply_matrix_with_uncompatible_size_2": {
+        "name": "exo 5 : multiplication avec dimensions incompatibles (2eme test)",
+        "points": 1
+    },
+    "test_multiyply_matrix_with_compatible_size_1": {
+        "name": "exo 5 : multiplication avec dimensions compatibles (1er test)",
+        "points": 1
+    },
+    "test_multiyply_matrix_with_compatible_size_2": {
+        "name": "exo 5 : multiplication avec dimensions compatibles (2eme test)",
+        "points": 1
+    },
+    "test_spam_keys_are_in_dict": {
+        "name": "exo 6 : tous les mots des mails spam dans la partie spam du résultat",
+        "points": 1
+    },
+    "test_ham_keys_are_in_dict": {
+        "name": "exo 6 : tous les mots des mails ham dans la partie ham du résultat",
+        "points": 1
+    },
+    "test_spam_keys_should_not_be_in_ham_dict": {
+        "name": "exo 6 : tous les mots uniquement des mails spam PAS dans la partie ham du résultat (ou 0)",
+        "points": 1
+    },
+    "test_ham_keys_should_not_be_in_spam_dict": {
+        "name": "exo 6 : tous les mots uniquement des mails ham PAS dans la partie spam du résultat (ou 0)",
+        "points": 1
+    },
+    "test_spam_prob_are_correct": {
+        "name": "exo 6 : les probabilités de spam sont bonnes",
+        "points": 1
+    },
+    "test_ham_prob_are_correct": {
+        "name": "exo 6 : les probabilités de ham sont bonnes",
+        "points": 1
+    }
+}
